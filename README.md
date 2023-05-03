@@ -1,3 +1,3 @@
-# This is my first Homework in GoIT
+# First Website
 
 - Hope, you will enjoy
